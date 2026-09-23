@@ -365,53 +365,7 @@ Worked across digital marketing, social media management and real-estate lead ge
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=huxynsys&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&ring_color=7C3AED&include_all_commits=true" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=huxynsys&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E5E7EB&dates=9CA3AF" height="180"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huxynsys&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&langs_count=8" height="180"/>
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=huxynsys&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=huxynsys&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true&custom_title=Lal%20Hussain%20-%20Contribution%20Activity"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/huxynsys/huxynsys/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
 
 ## 🎯 Current Focus
 
